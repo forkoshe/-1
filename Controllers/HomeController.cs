@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace WebApplication16.Controllers
+namespace Labka.Controllers
 {
     public class HomeController : Controller
     {
